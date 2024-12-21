@@ -1,0 +1,10 @@
+{
+  "codeium.enableCodeLens": false,
+  "dart.closingLabels": false,
+  "cSpell.words": [
+    "Dormigram",
+    "prefs",
+    "viewmodel"
+  ],
+  "dart.lineLength": 120
+}
